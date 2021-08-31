@@ -1,0 +1,4 @@
+optConfig:
+  optOutStrategy: true
+# TODO: Use `action: issue` once https://github.com/ossf/allstar/issues/43 is fixed.
+action: log

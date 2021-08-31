@@ -1,0 +1,7 @@
+optConfig:
+  optOutStrategy: true
+action: issue
+enforceDefault: true
+blockForce: true
+dismissStale: false
+requireApproval: false

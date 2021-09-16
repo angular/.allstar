@@ -1,3 +1,7 @@
 optConfig:
   optInRepos:
+    - .allstar
+    - angular
+    - angular-cli
+    - components
     - dev-infra

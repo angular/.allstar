@@ -6,7 +6,15 @@ configuration for the app.
 
 ## Enabled Repos
 
-Currently the only enabled repository for AllStar is [angular/dev-infra](https://github.com/angular/dev-infra) during testing. After completed testing all Angular repositories will be included.
+Currently Allstar is enabled on only the following repositories:
+
+- [angular/.allstar](https://github.com/angular/.allstar)
+- [angular/angular](https://github.com/angular/angular)
+- [angular/angular-cli](https://github.com/angular/angular-cli)
+- [angular/components](https://github.com/angular/components)
+- [angular/dev-infra](https://github.com/angular/dev-infra)
+
+In the future AllStar is planned to be enabled for all repositories in the Angular organization.
 
 ## Policy Configuration
 

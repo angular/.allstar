@@ -1,0 +1,12 @@
+optConfig:
+  optOutStrategy: true
+action: issue
+groups:
+  - name: "All repos"
+    rules:
+      - name: "Require Scorecard Action"
+        method: require
+        priority: medium
+        actions:
+          - name: "ossf/scorecard-action"
+            version: ">= v1.1.2"

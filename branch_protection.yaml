@@ -1,5 +1,6 @@
 optConfig:
   optOutStrategy: true
+  optOutArchivedRepos: true
 action: issue
 enforceDefault: true
 blockForce: true
